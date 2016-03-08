@@ -22,10 +22,7 @@ $ wbl wobbles list
 ```
 
 ```javascript
-client.listWobbles(function(err, wobbles) {
-  console.log(wobbles);
-});
-
+<%= partial('list-example.js') %>
 ```
 
 ```python
