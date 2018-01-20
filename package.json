@@ -48,7 +48,7 @@
     "prop-types": "^15.5.9",
     "react": "^16.1.1",
     "react-dom": "^16.1.1",
-    "remark": "^8.0.0",
+    "remark": "^9.0.0",
     "remark-html": "^7.0.0",
     "remark-slug": "^5.0.0",
     "standard-changelog": "^1.0.1",
